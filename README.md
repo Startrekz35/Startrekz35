@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Startrekz35
 - 👀 I’m interested in trying to become a Software Engineer
 - 🌱 I’m currently learning Modern C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything to sharpen my skills
 - 📫 How to reach me: burkz3905@outlook.com
 
 <!---
