@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Startrekz35
-- 👀 Join me in my road to becoming a Cloud Architect
-- 🌱 I’m currently studying for the CCNA and taking courses for Linux Admin to become proficient in its OS
+- 👀 Join me in my road to becoming a Cloud Architect or Software Engineer (Whichever comes first)
+- 🌱 I’m currently studying for the CCNA and taking courses for Linux Admin to become proficient in its OS and creating projects while doing Leetcode
 - 💞️ I’m looking to collaborate on anything to sharpen my skills
 - 📫 How to reach me: burkz3905@outlook.com or https://www.linkedin.com/in/zavier-burks-aa782787/
 
